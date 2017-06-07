@@ -1,7 +1,7 @@
 # opencv-arrow-detection
 Simple intro to OpenCv's HoughLines by detecting arrows.
 
-![Arrow](arrowtest.jpg?raw=true "")
+![Arrow](arrowtest.png?raw=true "")
 
 <h2>Requirements:</h2>
 <p>
