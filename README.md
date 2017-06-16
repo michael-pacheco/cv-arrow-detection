@@ -3,7 +3,7 @@ Simple intro to OpenCv's HoughLines by detecting arrows.
 
 ![Arrow](arrowtest.png?raw=true "")
 
-<h1>An explanation can be found <a href="https://michaelpacheco.net/blog/RL-multi-armed-bandit">here!</a></h1><br>
+<h1>An explanation can be found <a href="https://michaelpacheco.net/blog/opencv-arrow-detection">here!</a></h1><br>
 
 <h2>Requirements:</h2>
 <p>
